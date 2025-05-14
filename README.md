@@ -28,7 +28,7 @@ This **console-based Attendance Management System** helps **students** and **adm
 ## 🚀 Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/attendance-system.git
+   git clone https://github.com/adarshrai8853/attendance-system.git
 ##  Compile & Run
   ```sh
     g++ attendance_system.cpp -o attendance_system
